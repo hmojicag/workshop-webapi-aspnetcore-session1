@@ -88,6 +88,7 @@ namespace HelloWorldNetCore {
 
             int a = 32;
             int b = 50;
+            int dummy = 0;
             
             if (a == b) {
                 Console.WriteLine("true");
